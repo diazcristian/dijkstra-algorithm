@@ -1,4 +1,4 @@
-# Dijkstra Project
+# Dijkstra-algorithm
 
 This project implements Dijkstra's algorithm to find the shortest path between two municipalities represented by an adjacency matrix.
 
